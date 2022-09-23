@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-.cspell
-.vscode
+/.cspell
+/.vscode
 
 # testing
 /coverage
