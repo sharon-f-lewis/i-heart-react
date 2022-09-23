@@ -1,11 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/.cspell
+/.vscode
 /node_modules
 /.pnp
 .pnp.js
-/.cspell
-/.vscode
 
 # testing
 /coverage
